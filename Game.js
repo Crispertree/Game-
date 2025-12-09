@@ -16,7 +16,7 @@ let player;
 let platforms = []; /array som håller alla platformar/
 let numPlatforms = 10;
 
-
+testgrehndnd555
 
 class player {
 
